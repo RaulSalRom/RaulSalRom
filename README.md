@@ -6,8 +6,8 @@ I'm a passionate Junior Web Developer currently studying Web Application Develop
 
 ### 🚀 About Me
 
-*   🌱 I’m currently learning: **HTML, CSS, Java, MongoDB, MySQL...** 
-*   🎯 My goal: To become a versatile Full-Stack Developer.
+*    I’m currently learning: **HTML, CSS, Java, MongoDB, MySQL...** 
+*    My goal: To become a versatile Full-Stack Developer.
 
 ### 🛠️ Tech Stack & Tools
 
